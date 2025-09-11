@@ -33,6 +33,7 @@ Sala: Laboratório de Geoprocessamento
     | ... | ...  | ...  |
 
 - Aula 4: [Slides](https://www.canva.com/design/DAGybKOdirs/KVeNjFiKTQHIHoD7f4sCqw/edit?utm_content=DAGybKOdirs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-  - script 1: [Link](https://colab.research.google.com/drive/1IsDoxqp2n2G3N4q6_mX1f_Tdl9a9qWsf?usp=sharing)
-  - script 2: [Link](https://colab.research.google.com/drive/1rnekn1AqUCjKbyPWafpU0rRqkxuMeogp?usp=sharing)
+  - script 1: [Link](https://colab.research.google.com/drive/1rnekn1AqUCjKbyPWafpU0rRqkxuMeogp?usp=sharing)
+  - script 2: [Link](https://colab.research.google.com/drive/1IsDoxqp2n2G3N4q6_mX1f_Tdl9a9qWsf?usp=sharing)
+  
   
