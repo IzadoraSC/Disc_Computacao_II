@@ -40,5 +40,5 @@ Sala: Laboratório de Geoprocessamento
   - script 1: [Link](https://colab.research.google.com/drive/1ccblAt9Olj0xULLg3-wGEX5khgCO3RfN?usp=sharing)
 
 - Aula 6 (25/09/2025): [Slides](https://www.canva.com/design/DAGz5IYct7w/dSY4stY7E7jQtGz1Sf8l8Q/edit?utm_content=DAGz5IYct7w&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-  - script 1: [Link](https://www.canva.com/design/DAGz5IYct7w/dSY4stY7E7jQtGz1Sf8l8Q/edit?utm_content=DAGz5IYct7w&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+  - script 1: [Link](https://colab.research.google.com/drive/1D9XOgHiIohnoHygi9xHu4UA2KZgcCl8F?usp=sharing)
   - banco de dados: [Link](https://drive.google.com/drive/folders/1IqfCiKMwfmRkoxSg6BrZ38M3p2LrKusn?usp=sharing)   
