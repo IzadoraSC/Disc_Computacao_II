@@ -41,4 +41,11 @@ Sala: Laboratório de Geoprocessamento
 
 - Aula 6 (25/09/2025): [Slides](https://www.canva.com/design/DAGz5IYct7w/dSY4stY7E7jQtGz1Sf8l8Q/edit?utm_content=DAGz5IYct7w&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
   - script 1: [Link](https://colab.research.google.com/drive/1D9XOgHiIohnoHygi9xHu4UA2KZgcCl8F?usp=sharing)
-  - banco de dados: [Link](https://drive.google.com/drive/folders/1IqfCiKMwfmRkoxSg6BrZ38M3p2LrKusn?usp=sharing)   
+  - banco de dados: [Link](https://drive.google.com/drive/folders/1IqfCiKMwfmRkoxSg6BrZ38M3p2LrKusn?usp=sharing)
+
+- Aula 7 (02/10/2025): Avaliação
+
+- Aula 8 (09/10/2025): [Slides](https://www.canva.com/design/DAG1OwGGWmE/fxvY1dz_bn-76I6hU0ElJQ/edit?utm_content=DAG1OwGGWmE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+  - script 1 - Dados GOES INPE: [Link](https://colab.research.google.com/drive/1gBPyYSWbsutAwDP3vakWnSU9MX3zILwG?usp=sharing)
+  - script 2 - Aquisição de Dados GOES: [Link](https://colab.research.google.com/drive/1zOz_DLa___iwRnI5Q9AHnpCcfHI7Ujf_?usp=sharing)
+  - script 3 - Dados ERA5: [Link](https://colab.research.google.com/drive/1gLXozfY4Cj9m_hHZDFYcKjBuBFVzQpeu?usp=sharing)
