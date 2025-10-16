@@ -49,7 +49,10 @@ Sala: Laboratório de Geoprocessamento
   - script 1 - Dados GOES INPE: [Link](https://colab.research.google.com/drive/1gBPyYSWbsutAwDP3vakWnSU9MX3zILwG?usp=sharing)
   - script 2 - Aquisição de Dados GOES: [Link](https://colab.research.google.com/drive/1zOz_DLa___iwRnI5Q9AHnpCcfHI7Ujf_?usp=sharing)
 
-- Aula 9 (16/10/2025): [Slides]()
-  - script 1 - Série Temporal: [Link]()
-  - script 2 - Dados ERA5: [Link](https://colab.research.google.com/drive/1gLXozfY4Cj9m_hHZDFYcKjBuBFVzQpeu?usp=sharing)
+- Aula 9 (16/10/2025): [Slides](https://www.canva.com/design/DAG18MaJrJM/gz7ue-_sMK4yec204YttNw/edit?utm_content=DAG18MaJrJM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+  - script 1 - Dados NetCDF ERA5: [Link](https://colab.research.google.com/drive/1gLXozfY4Cj9m_hHZDFYcKjBuBFVzQpeu?usp=sharing)
+  - script 2 - Série Temporal: [Link]()
+
+ - Aula 10 (23/10/2025): [Slides]()
+  - Estudo de Caso: [Link]()
     
