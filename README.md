@@ -51,7 +51,7 @@ Sala: Laboratório de Geoprocessamento
 
 - Aula 9 (16/10/2025): [Slides](https://www.canva.com/design/DAG18MaJrJM/gz7ue-_sMK4yec204YttNw/edit?utm_content=DAG18MaJrJM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
   - script 1 - Dados NetCDF ERA5: [Link](https://colab.research.google.com/drive/1gLXozfY4Cj9m_hHZDFYcKjBuBFVzQpeu?usp=sharing)
-  - script 2 - Série Temporal: [Link]()
+  - script 2 - Série Temporal: [Link](https://colab.research.google.com/drive/1nCNJFGceYqC6V3EiKWcWeKyyypquU5Pl?usp=sharing)
 
  - Aula 10 (23/10/2025): [Slides]()
   - Estudo de Caso: [Link]()
