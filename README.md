@@ -57,6 +57,6 @@ Sala: Laboratório de Geoprocessamento
   - Estudos de Caso 01, 02, 03: [Link](https://izadorasc.github.io/ebook-intro-computacao-meteorologia/capitulos/cap8-estudo-casos.html)
   - Script Resolução: [Link](https://colab.research.google.com/drive/1DO-X29TeEEMMKduQdc-LSpHsDCUNF1T0?usp=sharing)
 
-- Aula 11 (30/10/2025):
-  - Estudos de Caso 04 e 05: [Link](https://izadorasc.github.io/ebook-intro-computacao-meteorologia/capitulos/cap8-estudo-casos.html)
+- Aula 11 (30/10/2025): [Slides](https://www.canva.com/design/DAG3LRz7f-Y/xpC65vLP2mIc3KRpc1rQBA/edit?utm_content=DAG3LRz7f-Y&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+  - Estudos de Caso 04: [Link](https://izadorasc.github.io/ebook-intro-computacao-meteorologia/capitulos/cap8-estudo-casos.html)
     
