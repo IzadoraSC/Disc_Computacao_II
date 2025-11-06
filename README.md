@@ -58,5 +58,7 @@ Sala: Laboratório de Geoprocessamento
   - Script Resolução: [Link](https://colab.research.google.com/drive/1DO-X29TeEEMMKduQdc-LSpHsDCUNF1T0?usp=sharing)
 
 - Aula 11 (30/10/2025): [Slides](https://www.canva.com/design/DAG3LRz7f-Y/xpC65vLP2mIc3KRpc1rQBA/edit?utm_content=DAG3LRz7f-Y&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-  - Estudos de Caso 04: [Link](https://izadorasc.github.io/ebook-intro-computacao-meteorologia/capitulos/cap8-estudo-casos.html)
+  - Estudos de Caso 04: [Link](https://colab.research.google.com/drive/1vA2W-heQqKa_7bw_VGwG3cxTRJM8S2C9?usp=sharing)
     
+- Aula 12 (06/11/2025): [Slides](https://www.canva.com/design/DAG31Fl9t8s/7n1cAiyfwZ29rf7d8EQgVw/edit?utm_content=DAG31Fl9t8s&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+  - Estudos de Caso 05: [Link]()
