@@ -61,4 +61,7 @@ Sala: Laboratório de Geoprocessamento
   - Estudos de Caso 04: [Link](https://colab.research.google.com/drive/1vA2W-heQqKa_7bw_VGwG3cxTRJM8S2C9?usp=sharing)
     
 - Aula 12 (06/11/2025): [Slides](https://www.canva.com/design/DAG31Fl9t8s/7n1cAiyfwZ29rf7d8EQgVw/edit?utm_content=DAG31Fl9t8s&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-  - Estudos de Caso 05: [Link]()
+  - Estudos de Caso 05: [Link](https://colab.research.google.com/drive/1DMlV9tAZWsc4lCJnhJ1tOftqTlWcDQiv?usp=sharing)
+    
+- Aula 13 (13/11/2025): [Slides](https://www.canva.com/design/DAG4g2afnmE/sswXYP8I7HtwhXhSk7Soxg/edit?utm_content=DAG4g2afnmE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- ACESSO AO EBOOK: [Link](https://izadorasc.github.io/ebook-intro-computacao-meteorologia/capitulos/cap8-estudo-casos.html#introdu%C3%A7%C3%A3o)
