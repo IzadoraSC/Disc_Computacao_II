@@ -64,4 +64,9 @@ Sala: Laboratório de Geoprocessamento
   - Estudos de Caso 05: [Link](https://colab.research.google.com/drive/1DMlV9tAZWsc4lCJnhJ1tOftqTlWcDQiv?usp=sharing)
     
 - Aula 13 (13/11/2025): [Slides](https://www.canva.com/design/DAG4g2afnmE/sswXYP8I7HtwhXhSk7Soxg/edit?utm_content=DAG4g2afnmE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-- ACESSO AO EBOOK: [Link](https://izadorasc.github.io/ebook-intro-computacao-meteorologia/capitulos/cap8-estudo-casos.html#introdu%C3%A7%C3%A3o)
+  - ACESSO AO EBOOK: [Link](https://izadorasc.github.io/ebook-intro-computacao-meteorologia/capitulos/cap8-estudo-casos.html#introdu%C3%A7%C3%A3o)
+
+- Aula (27/11/2025):
+  - Projeto: [Link](https://drive.google.com/drive/folders/1SWnnX7GMPz0MzJqlaIiIL_Q9NbuYZwbq?usp=sharing)
+  - Dados de Precipitação Bacia do Rio Lajeado: [Link](https://colab.research.google.com/drive/1KwNARt8UV5YJt0GIIdkTO2UOXgoHSpQ3?usp=sharing)
+
