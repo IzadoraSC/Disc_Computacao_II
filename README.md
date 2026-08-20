@@ -6,9 +6,9 @@ Curso: Meteorologia / Campus UEMA-São Luís
 
 Nível: Graduação
 
-Código: ASLMTO28 – Matutino – 2025.2
+Código: ASLMTO28 – Matutino – 2026.2
 
-Horário: 08h:20 – 11h:40
+Horário: 07h:30 – 10h:50 (Quinta-Feira)
 
 Contato: izadorasccs@gmail.com
 
@@ -18,55 +18,7 @@ Sala: Laboratório de Geoprocessamento
 
 ## Aulas:
 
-- Aula 1 e 2: [Slides](https://www.canva.com/design/DAGxTTODSqc/aGIlhRbwdChXHj7bEG4ENA/edit?utm_content=DAGxTTODSqc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-  
-- Aula 3: [Slides](https://www.canva.com/design/DAGx5OlLA4Q/0Kxv2tpORRU3cl5zWUpkEw/edit?utm_content=DAGx5OlLA4Q&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-  - script 1: [Link](https://colab.research.google.com/drive/15cfirlhO5UW0CxAsqpm7ytFA5b_1zrCE?usp=sharing)
-  - script 2: [Link](https://colab.research.google.com/drive/1RUNdt1Uz1DaS7axaTXi6pHOtajBrpORu?usp=sharing)
-  - script aula: [Link](https://colab.research.google.com/drive/1kkeLeGZ8HUBTDSBQE5zkYp8hvzFN19OB?usp=sharing)
-  - Exercício 01. Criar tabela comparando funções do R e Python e descrever suas finalidades, preencha a tabela com no mínimo 10 funções. Exemplo a seguir:
-    
-    | Função em R | Função em Python | Descrição |
-    |----------|----------|----------|
-    | install.packages()  | !pip install | Para instalar bibliotecas e pacotes  |
-    | library() ou require() | import | Carregar pacote/biblioteca  |
-    | ... | ...  | ...  |
-
-- Aula 4: [Slides](https://www.canva.com/design/DAGybKOdirs/KVeNjFiKTQHIHoD7f4sCqw/edit?utm_content=DAGybKOdirs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-  - script 1: [Link](https://colab.research.google.com/drive/1rnekn1AqUCjKbyPWafpU0rRqkxuMeogp?usp=sharing)
-  - script 2: [Link](https://colab.research.google.com/drive/1IsDoxqp2n2G3N4q6_mX1f_Tdl9a9qWsf?usp=sharing)
-  
-- Aula 5: [Slides](https://www.canva.com/design/DAGylq2NnnA/fs5hEFVoKAMhJoN9hlp8kQ/edit?utm_content=DAGylq2NnnA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-  - script 1: [Link](https://colab.research.google.com/drive/1ccblAt9Olj0xULLg3-wGEX5khgCO3RfN?usp=sharing)
-
-- Aula 6 (25/09/2025): [Slides](https://www.canva.com/design/DAGz5IYct7w/dSY4stY7E7jQtGz1Sf8l8Q/edit?utm_content=DAGz5IYct7w&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-  - script 1: [Link](https://colab.research.google.com/drive/1D9XOgHiIohnoHygi9xHu4UA2KZgcCl8F?usp=sharing)
-  - banco de dados: [Link](https://drive.google.com/drive/folders/1IqfCiKMwfmRkoxSg6BrZ38M3p2LrKusn?usp=sharing)
-
-- Aula 7 (02/10/2025): Avaliação
-
-- Aula 8 (09/10/2025): [Slides](https://www.canva.com/design/DAG1OwGGWmE/fxvY1dz_bn-76I6hU0ElJQ/edit?utm_content=DAG1OwGGWmE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-  - script 1 - Dados GOES INPE: [Link](https://colab.research.google.com/drive/1gBPyYSWbsutAwDP3vakWnSU9MX3zILwG?usp=sharing)
-  - script 2 - Aquisição de Dados GOES: [Link](https://colab.research.google.com/drive/1zOz_DLa___iwRnI5Q9AHnpCcfHI7Ujf_?usp=sharing)
-
-- Aula 9 (16/10/2025): [Slides](https://www.canva.com/design/DAG18MaJrJM/gz7ue-_sMK4yec204YttNw/edit?utm_content=DAG18MaJrJM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-  - script 1 - Dados NetCDF ERA5: [Link](https://colab.research.google.com/drive/1gLXozfY4Cj9m_hHZDFYcKjBuBFVzQpeu?usp=sharing)
-  - script 2 - Série Temporal: [Link](https://colab.research.google.com/drive/1nCNJFGceYqC6V3EiKWcWeKyyypquU5Pl?usp=sharing)
-
- - Aula 10 (23/10/2025): [Slides](https://www.canva.com/design/DAG197WScWg/kW3_87LIQUlhFM_oPKr9pA/edit?utm_content=DAG197WScWg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-  - Estudos de Caso 01, 02, 03: [Link](https://izadorasc.github.io/ebook-intro-computacao-meteorologia/capitulos/cap8-estudo-casos.html)
-  - Script Resolução: [Link](https://colab.research.google.com/drive/1DO-X29TeEEMMKduQdc-LSpHsDCUNF1T0?usp=sharing)
-
-- Aula 11 (30/10/2025): [Slides](https://www.canva.com/design/DAG3LRz7f-Y/xpC65vLP2mIc3KRpc1rQBA/edit?utm_content=DAG3LRz7f-Y&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-  - Estudos de Caso 04: [Link](https://colab.research.google.com/drive/1vA2W-heQqKa_7bw_VGwG3cxTRJM8S2C9?usp=sharing)
-    
-- Aula 12 (06/11/2025): [Slides](https://www.canva.com/design/DAG31Fl9t8s/7n1cAiyfwZ29rf7d8EQgVw/edit?utm_content=DAG31Fl9t8s&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-  - Estudos de Caso 05: [Link](https://colab.research.google.com/drive/1DMlV9tAZWsc4lCJnhJ1tOftqTlWcDQiv?usp=sharing)
-    
-- Aula 13 (13/11/2025): [Slides](https://www.canva.com/design/DAG4g2afnmE/sswXYP8I7HtwhXhSk7Soxg/edit?utm_content=DAG4g2afnmE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-  - ACESSO AO EBOOK: [Link](https://izadorasc.github.io/ebook-intro-computacao-meteorologia/capitulos/cap8-estudo-casos.html#introdu%C3%A7%C3%A3o)
-
-- Aula (27/11/2025):
-  - Projeto: [Link](https://drive.google.com/drive/folders/1SWnnX7GMPz0MzJqlaIiIL_Q9NbuYZwbq?usp=sharing)
-  - Dados de Precipitação Bacia do Rio Lajeado: [Link](https://colab.research.google.com/drive/1KwNARt8UV5YJt0GIIdkTO2UOXgoHSpQ3?usp=sharing)
+- Aula 1: [Slides](https://canva.link/j1nvejenf0t75i1)
+- Aula 2: [Slides](https://canva.link/1gopnx1u8cpf9xk)
+  - Dados da Aula:[Link](https://drive.google.com/drive/folders/1UNibRjh82oCTF9YmkujLrFMfMoEV5N4u?usp=drive_link)
 
