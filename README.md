@@ -18,7 +18,7 @@ Sala: Laboratório de Geoprocessamento
 
 ## Aulas:
 
-- Aula 1: [Slides](https://canva.link/j1nvejenf0t75i1)
-- Aula 2: [Slides](https://canva.link/1gopnx1u8cpf9xk)
+- Aula 1 (13/08/2026): [Slides](https://canva.link/j1nvejenf0t75i1)
+- Aula 2 (20/08/2026): [Slides](https://canva.link/1gopnx1u8cpf9xk)
   - Dados da Aula:[Link](https://drive.google.com/drive/folders/1UNibRjh82oCTF9YmkujLrFMfMoEV5N4u?usp=drive_link)
 
