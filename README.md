@@ -24,6 +24,7 @@ Sala: Laboratório de Geoprocessamento
 - Aula 3 (27/08/2026): [Slides](https://canva.link/wstb15mlnyf0u8n)
 - Aula 4 (03/08/2026):[Link](https://canva.link/weyge5zqz512w02)
    - Acesso Colab: [Link](https://colab.research.google.com)
+- Aula 5 (10/09/2026):
    - Dados da Aula: [Link](https://drive.google.com/drive/folders/1E4AQcBmxPOtD2Z-_NkDU3VMaqmLPUU2u?usp=sharing)
    - Script: [Link](https://colab.research.google.com/drive/1ENCjfXbZsabJVlIiB8SnJiHP0SjSV5am?usp=sharing)
  
