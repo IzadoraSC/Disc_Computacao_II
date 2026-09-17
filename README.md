@@ -27,6 +27,8 @@ Sala: Laboratório de Geoprocessamento
 - Aula 5 (10/09/2026):
    - Dados da Aula: [Link](https://drive.google.com/drive/folders/1E4AQcBmxPOtD2Z-_NkDU3VMaqmLPUU2u?usp=sharing)
    - Script: [Link](https://colab.research.google.com/drive/1ENCjfXbZsabJVlIiB8SnJiHP0SjSV5am?usp=sharing)
+- Aula 6 (17/09/2026): [Slides] ()
+  - Continuação da Prática - Dados ERA5: [Link](https://colab.research.google.com/drive/1ENCjfXbZsabJVlIiB8SnJiHP0SjSV5am?usp=sharing)
  
   ## Referências Complementares:
   - 
