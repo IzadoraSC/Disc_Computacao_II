@@ -40,13 +40,13 @@ Sala: Laboratório de Geoprocessamento
    [Link](https://ojs.brazilianjournals.com.br/ojs/index.php/BRJD/article/view/20889)  
 - 01/09/2026: Avaliação
 
-- Aula 8 (08/10/2026):
+- Aula 8 (08/10/2026; 15/10/2026):
   - Artigo: [DSAT - APLICAÇÃO PARA VISUALIZAÇÃO INTERATIVA DOS DADOS
 RECEBIDOS PELA ESTAÇÃO GOES-R DO INPE](https://drive.google.com/drive/folders/1RkNvjvrTpI_zwvhczHQWCWEq3OmTSTAi?usp=sharing)
   - Prática - Dados GOES: [Link](https://colab.research.google.com/drive/1dU9fOL0zJssLmFf8962fakYj7uyt8r6n?usp=sharing)
 
-- Aula 9 (15/10/2026): [Slides]([https://canva.link/rtyvvebog70wepx](https://canva.link/zwkg1vohu7ph4n9))
-  -  Prática - Séries Temporais: []()
+- Aula 9 (22/10/2026): [Slides]([https://canva.link/rtyvvebog70wepx](https://canva.link/zwkg1vohu7ph4n9))
+  -  Prática - Séries Temporais: [Link]()
 
   ## Referências Complementares:
   - 
