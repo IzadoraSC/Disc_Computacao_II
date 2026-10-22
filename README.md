@@ -45,8 +45,8 @@ Sala: Laboratório de Geoprocessamento
 RECEBIDOS PELA ESTAÇÃO GOES-R DO INPE](https://drive.google.com/drive/folders/1RkNvjvrTpI_zwvhczHQWCWEq3OmTSTAi?usp=sharing)
   - Prática - Dados GOES: [Link](https://colab.research.google.com/drive/1dU9fOL0zJssLmFf8962fakYj7uyt8r6n?usp=sharing)
 
-- Aula 9 (22/10/2026): [Slides]([https://canva.link/rtyvvebog70wepx](https://canva.link/zwkg1vohu7ph4n9))
-  -  Prática - Séries Temporais: [Link]()
+- Aula 9 (22/10/2026): [Slides](https://canva.link/zwkg1vohu7ph4n9)
+  -  Prática - Séries Temporais: [Link](https://colab.research.google.com/drive/1hQbDQpAE4qoce7omYunSuKbzhYUF7TFo?usp=sharing)
 
   ## Referências Complementares:
   - 
