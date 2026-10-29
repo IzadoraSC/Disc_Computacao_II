@@ -48,5 +48,9 @@ RECEBIDOS PELA ESTAÇÃO GOES-R DO INPE](https://drive.google.com/drive/folders/
 - Aula 9 (22/10/2026): [Slides](https://canva.link/zwkg1vohu7ph4n9)
   -  Prática - Séries Temporais: [Link](https://colab.research.google.com/drive/1hQbDQpAE4qoce7omYunSuKbzhYUF7TFo?usp=sharing)
 
+- Aula 10 (29/10/2026):
+  - [Slides](https://canva.link/daefgngyw193qhq)
+  - [Slides](https://canva.link/frilj82dlufl3it)
+
   ## Referências Complementares:
   - 
